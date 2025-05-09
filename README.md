@@ -1,16 +1,13 @@
-# demo_app
+## Flutter Weather App
 
-A new Flutter project.
+A clean and minimal Weather App that fetches real-time weather data from OpenWeatherMap and displays it based on the user's chosen location.
 
-## Getting Started
+### Project Screenshots
+<img src="https://github.com/user-attachments/assets/d03da517-442c-417a-ac3d-3d235bfefa06" width="300" alt="My Project Interface">
 
-This project is a starting point for a Flutter application.
+### Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Lottie](https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottie&logoColor=blue)
+![OpenWeatherMap](https://img.shields.io/badge/OpenWeatherMap-%23000000.svg?style=for-the-badge&logo=openweathermap&logoColor=white)
